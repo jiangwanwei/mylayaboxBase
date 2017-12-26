@@ -1,0 +1,5 @@
+<res>
+   <item name="ui/dialogbg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=12,18,15,17" picType="0"/>
+   <item name="ui/input_bg.png" type="TextInput" compress="0" pack="0" quality="80" props="sizeGrid=12,14,13,16" picType="0"/>
+   <item name="ui/btn_green.png" type="Button" compress="0" pack="0" quality="80" props="stateNum=1@@!@@sizeGrid=12,12,14,16" picType="0"/>
+</res>
